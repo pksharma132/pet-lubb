@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "295822071612",
+    "firebase_url": "https://petlubb-29d02.firebaseio.com",
+    "project_id": "petlubb-29d02",
+    "storage_bucket": "petlubb-29d02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295822071612:android:7702a11817417f76d57039",
+        "android_client_info": {
+          "package_name": "com.pksharma.petlubb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295822071612-dslfti7o2iia7c5qag17cceeunb117v8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzuhJib7fr9VGsojG_xON0KhMtTzkReuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295822071612-dslfti7o2iia7c5qag17cceeunb117v8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
