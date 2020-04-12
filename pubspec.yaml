@@ -26,14 +26,28 @@ dependencies:
   firebase_auth: ^0.14.0+5
   cloud_firestore: ^0.12.9+4
   provider: ^3.1.0
-  email_validator: '^1.0.0'
+  email_validator: ^1.0.0
   flutter_spinkit: "^4.1.2"
+  flutter_launcher_icons: ^0.7.4
+  
+  # flushbar:
+  #  git:
+  #    url: https://github.com/AndreHaueisen/flushbar.git
+  #    ref: 13c55a8
+  #image_picker: ^0.5.3+1
+ # firebase_storage: ^3.1.5
+  #font_awesome_flutter: ^8.2.0
+  #image_cropper: ^1.0.2
+
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
-
+  flutter_launcher_icons: "^0.7.3"
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "icons/dog.jpeg"
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
@@ -49,6 +63,8 @@ flutter:
   # assets:
   #  - images/a_dot_burr.jpeg
   #  - images/a_dot_ham.jpeg
+  assets:
+  - assets/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
